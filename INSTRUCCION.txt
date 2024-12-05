@@ -1,0 +1,13 @@
+README!!!!!
+
+===============================================
+
+Solamente compilar y ejecutar MenuInterfaz.java
+
+===============================================
+
+Por ejemplo: 
+
+javac MenuInterfaz.java
+java MenuInterfaz
+
